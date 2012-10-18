@@ -1,0 +1,14 @@
+{
+  "name": "youtube-to-mp3",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.0rc4",
+    "jade": "*",
+    "stylus": "0.30.1",
+    "socket": "0.9.10"
+  }
+}
